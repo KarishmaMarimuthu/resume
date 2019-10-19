@@ -1,7 +1,7 @@
-Karishma M &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;             
+Karishma M             
 ===
                                                                                         
-![View Photo][1]
+[View Photo][1]
 :email:  [charunandini98@gmail.com](charunandini98@gmail.com)
 
 :iphone: [8610104739](8610104739)
