@@ -1,4 +1,4 @@
-Karishma M                                                                                                ![Photo](Karish Photo.JPG)
+Karishma M                                                                                            ![Photo](resume/Karish Photo.jpg)
 ===
                                                                                         
 
