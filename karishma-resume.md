@@ -1,4 +1,4 @@
-Karishma M &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![][link to photo]
+Karishma M &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![link to photo]
 ===
                                                                                         
 
