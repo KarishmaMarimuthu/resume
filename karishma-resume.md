@@ -6,8 +6,8 @@
 
 ### :iphone: 8610104739
 
-### :house:  5/119, Kaleeswari Illam,Vivekanandar Street,	Thasildhar Nagar, 
-### &emsp;&emsp;&emsp;Anna Nagar, Madurai – 625020
+### :house:  5/119, Kaleeswari Illam,Vivekanandar Street,	Thasildhar Nagar, Anna Nagar,
+### &emsp;&emsp; Madurai – 625020
 
 
 ---
