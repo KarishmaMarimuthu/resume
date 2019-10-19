@@ -28,7 +28,7 @@
 ### &ensp;:book: SUBJECT OF INTEREST
 
 
-#### &ensp;&ensp;&ensp;:open_file_folder: `DATABASE MANAGEMENT SYSTEMS`
+#### &ensp;:open_file_folder: `DATABASE MANAGEMENT SYSTEMS`
 
 ---
 ### &ensp;:pencil: TECHNICAL SKILLS
