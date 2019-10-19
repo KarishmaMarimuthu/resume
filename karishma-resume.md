@@ -1,4 +1,4 @@
-Karishma M                                                                                            ![Photo](resume/Karish Photo.jpg)
+Karishma M &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Photo](https://github.com/KarishmaMarimuthu/resume/blob/master/Karish%20Photo.JPG=100x200)
 ===
                                                                                         
 
