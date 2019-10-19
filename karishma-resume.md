@@ -17,4 +17,17 @@
 ### &ensp;:mortar_board: EDUCATION
 
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+
+
+[Certificate][2]
+
+
+[2]: https://drive.google.com/file/d/1-8M64QmQprCALJaVaHZaoZBcfu28xw8J/view
+
+
 
