@@ -1,4 +1,4 @@
-# KARISHMA M &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; ([View Photo][1])          
+# KARISHMA M ([View Photo][1])          
                                                                                  
 
 #### :email:   [charunandini98@gmail.com](charunandini98@gmail.com) 
