@@ -73,7 +73,7 @@
 
 ---
 ### &ensp;:bust_in_silhouette: PERSONALITY TRAITS
-### &emsp;&emsp;[**`LEADERSHIP`**](#internship) &emsp;&emsp;&emsp;&emsp; **`TEAM PLAYER`** &emsp;&emsp;&emsp;&emsp; **`ADAPTIVE`** &emsp;&emsp;&emsp;&emsp; **`OPTIMISTIC`**
+### &emsp;&emsp;[**`LEADERSHIP`**](#mini-projects) &emsp;&emsp;&emsp;&emsp; **`TEAM PLAYER`** &emsp;&emsp;&emsp;&emsp; **`ADAPTIVE`** &emsp;&emsp;&emsp;&emsp; **`OPTIMISTIC`**
 
 ---
 ### &ensp;:trophy: ACHIEVEMENTS
