@@ -78,7 +78,7 @@
 ---
 ### &ensp;:trophy: ACHIEVEMENTS
 
-#### &ensp;:page_with_curl: CO CURRICULAR
+### &ensp;:page_with_curl: CO CURRICULAR
 
 #### &ensp;`INTERNSHIP`
 
@@ -88,7 +88,7 @@
 
 #### &ensp;`PROJECT CONTEST`
 
-- Selected as one of the _**Top 10 projects**_ and participated as a [_**`Team Player`**_](#team-player) in a team of 4 members in _**Shrishti 2019 – Project Contest**_ conducted by _**Saintgits College of Engineering**_,Kottayam, Kerala for developing a prototype of [_**`Smart Helmet for Hearing Impaired`**_](#smart-helemt-for-hearing-impaired) in February, 2019.
+- Selected as one of the _**Top 10 projects**_ and participated as a [_**`Team Player`**_](#team-player) in a team of 4 members in _**Shrishti 2019 – Project Contest**_ conducted by _**Saintgits College of Engineering**_,Kottayam, Kerala for developing a prototype of [_**`Smart Helmet for Hearing Impaired`**_](#smart-helmet-for-hearing-impaired) in February, 2019.
 
 &ensp;&ensp;&ensp; _**[YouTube Link](https://www.youtube.com/watch?v=Ura30iEriD4&t=7s)**_&ensp; | &ensp;  _**[Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_ &ensp; | &ensp;  _**[View Project](https://github.com/KarishmaMarimuthu/Smart-Helmet)**_
 
@@ -118,9 +118,9 @@
 &ensp; _**Also participated in various technical events like coding, debugging and paper presentation.**_
 
 ---
-#### &ensp;:books: EXTRA CURRICULAR
+### &ensp;:books: EXTRA CURRICULAR
 
-- Conducted a Workshop named **`Skill Enhancement through Active Learning (SEAL)`** for Middle and High School Students of Velammal Madurai and enhanced their skills by [_**`adapting`**_](#apadtive) with them, in May, 2017.&ensp; 
+- Conducted a Workshop named [**`Skill Enhancement through Active Learning (SEAL)`**](#extra-curricular) for Middle and High School Students of Velammal Madurai and enhanced their skills by [_**`adapting`**_](#apadtive) with them, in May, 2017.&ensp; 
 
 - Worked as an _**Editorial member and designed a magazine layout for**_ [**`ZIPPY`**](#extra-curricular), the yearly e-magazine of IT Department for the year 2018.
 
@@ -128,31 +128,31 @@
 
 - _**Member of ECO CLUB**_ during 2017-2018 at Velammal College of Engineering and Technology, Madurai.&ensp; _**[Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_
 
-- _**Elected as Vice President of `Alchemy Chemistry Association`**_ and conducted various events in an [_**`Optimistic`**_](#optimistic) way of approach, at Velammal College of Engineering and Technology, Madurai during 2016-2017.
+- _**Elected as Vice President of [`Alchemy Chemistry Association`](#team-player)**_ and conducted various events in an [_**`Optimistic`**_](#optimistic) way of approach, at Velammal College of Engineering and Technology, Madurai during 2016-2017.
 
-- _**Elected as IT Association Member**_ in the Department of Information Technology and conducted interactive sessions with fellow classmates of IT, at Velammal College of Engineering and Technology, Madurai during 2017-2018.
+- _**Elected as [`IT Association Member`](#team-player)**_ in the Department of Information Technology and conducted interactive sessions with fellow classmates of IT, at Velammal College of Engineering and Technology, Madurai during 2017-2018.
 
 - [_**`Team Leader`**_](#leadership) for the project [**`STUDENT MARK ANALYSIS SYSTEM`**](#student-mark-analysis-system) which comprised a team size of 3 members.
 
 ---
 ### &ensp;:bust_in_silhouette: PERSONAL DETAILS
 
-**1. Father’s  Name &ensp;&ensp;:&ensp;&ensp;	_A. Marimuthu_**  
+&emsp;**1. Father’s  Name &ensp;&ensp;:&ensp;&ensp;	_A. Marimuthu_**  
 
-**2. Occupation &ensp;&ensp;:&ensp;&ensp;	_Business_**
+&emsp;**2. Occupation &ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;	_Business_**
 
-**3. Mother’s Name &ensp;&ensp;:&ensp;&ensp; _M. Umarani_**     
+&emsp;**3. Mother’s Name &ensp;&ensp;:&ensp;&ensp; _M. Umarani_**     
 
-**4. Occupation &ensp;&ensp;:&ensp;&ensp;	_Graphic Designer_**
+&emsp;**4. Occupation &ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;	_Graphic Designer_**
 
-**5. Date of Birth &ensp;&ensp;:&ensp;&ensp; _28.05.1998_** 	   
+&emsp;**5. Date of Birth &ensp;&ensp;&ensp;&ensp;:&ensp;&ensp; _28.05.1998_** 	   
 
-**6. Age &ensp;&ensp;:&ensp;&ensp;_21 years_**
+&emsp;**6. Age &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;_21 years_**
 
-**7. Languages Known &ensp;&ensp;:&ensp;&ensp;_English, Tamil_**	
+&emsp;**7. Languages Known &ensp;:&ensp;&ensp;_English, Tamil_**	
 
-**8. Hobbies &ensp;&ensp;:&ensp;&ensp;_Drawing & Solving Sudoku_**
+&emsp;**8. Hobbies &ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;_Drawing & Solving Sudoku_**
 
-_**The above given details are true to the best of my knowledge.**_
+&emsp;_**The above given details are true to the best of my knowledge.**_
 
 
