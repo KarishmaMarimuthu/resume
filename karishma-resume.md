@@ -155,11 +155,11 @@
 
 &emsp;**5. Date of Birth &ensp;&ensp;&ensp;&ensp;:&ensp;&ensp; _28.05.1998_** 	   
 
-&emsp;**6. Age &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;_21 years_**
+&emsp;**6. Age &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;_21 years_**
 
-&emsp;**7. Languages Known &ensp;:&ensp;&ensp;_English, Tamil_**	
+&emsp;**7. Languages Known :&ensp;&ensp;_English, Tamil_**	
 
-&emsp;**8. Hobbies &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;_Drawing & Solving Sudoku_**
+&emsp;**8. Hobbies &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;_Drawing & Solving Sudoku_**
 
 ---
 &emsp;_**The above given details are true to the best of my knowledge.**_
