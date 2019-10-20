@@ -88,15 +88,17 @@
 
 #### &ensp;`PROJECT CONTEST`
 
-- Selected as one of the _**Top 10 projects**_ and participated as a [_**`Team Player`**_](#team-player) in a team of 4 members in _**Shrishti 2019 – Project Contest**_ conducted by _**Saintgits College of Engineering**_,Kottayam, Kerala for developing a prototype of **`Smart Helmet for Hearing Impaired`** in February, 2019.
+- Selected as one of the _**Top 10 projects**_ and participated as a [_**`Team Player`**_](#team-player) in a team of 4 members in _**Shrishti 2019 – Project Contest**_ conducted by _**Saintgits College of Engineering**_,Kottayam, Kerala for developing a prototype of [_**`Smart Helmet for Hearing Impaired`**_](https://github.com/KarishmaMarimuthu/Smart-Helmet) in February, 2019.
 
-&ensp; _**[YouTube Link](https://www.youtube.com/watch?v=Ura30iEriD4&t=7s)**_&ensp; | &ensp;  _**[Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_
+&ensp; _**[YouTube Link](https://www.youtube.com/watch?v=Ura30iEriD4&t=7s)**_&ensp; | &ensp;  _**[Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_ &ensp; | &ensp;  _**[View Project](https://github.com/KarishmaMarimuthu/Smart-Helmet)**_
 
 #### &ensp;`PAPER PRESENTATION`
 
-- Secured _**Runner Up**_ with a Cash Prize in presenting a paper on our project **`Smart Helmet for Hearing Impaired`**, conducted by _**KLN College of Engineering**_, Madurai, in October, 2019. &ensp;  _**[Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_
+- Secured _**Runner Up**_ with a Cash Prize in presenting a paper on our project **`Smart Helmet for Hearing Impaired`**, conducted by _**KLN College of Engineering**_, Madurai, in October, 2019. &ensp;  
 
-- Secured _**1st place**_ with a Cash Prize in _**Chemistry Paper Presentation**_ at _**Velammal College of Engineering and Technology**_, Madurai on the topic **`Chemistry and Programming - Better Employability`** in 2016. &ensp;  _**[Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_
+_**[Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_ &ensp; | &ensp; _**[View PPT](https://drive.google.com/file/d/1-u6YoLIUmnf09plQtnnVhLbfvDi9NfRg/view)**_
+
+- Secured _**1st place**_ with a Cash Prize in _**Chemistry Paper Presentation**_ at _**Velammal College of Engineering and Technology**_, Madurai on the topic **`Chemistry and Programming - Better Employability`** in 2016. &ensp;  _**[Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_ &ensp; | &ensp; _**[View PPT](https://drive.google.com/open?id=1FhKF3eAsRNAFDaFd5B5cHU1OkjhvPQzc)**_
 
 #### &ensp;`CONFERENCE`
 
@@ -112,5 +114,5 @@
 &ensp; _**Also participated in various technical events like coding, debugging and paper presentation.**_
 
 ---
-#### &ensp;:high_brightness: EXTRA-CURRICULAR
+#### &ensp;:books: EXTRA-CURRICULAR
 
