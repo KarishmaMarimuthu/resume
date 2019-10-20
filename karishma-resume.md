@@ -78,12 +78,39 @@
 ---
 ### &ensp;:trophy: ACHIEVEMENTS
 
-**:page_with_curl: CO-CURRICULAR**
+#### &ensp;:page_with_curl: CO-CURRICULAR
 
 #### &ensp;`INTERNSHIP`
 
-- Completed 28-day online internship program at POORNA as a _**`Team Leader`**_ from 18 Feb to 18 Mar, 2019, in **_Programming in Advance Java_** and been awarded a certificate of completion.
+- Completed 28-day online internship program at POORNA as a [_**`Team Leader`**_](#leadership) from 18 Feb to 18 Mar, 2019, in **_Programming in Advance Java_** and been awarded a certificate of completion.
+
+&ensp; _**[Internship Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_
 
 #### &ensp;`PROJECT CONTEST`
 
-- Completed 28-day online internship program at POORNA as a _**`Team Leader`**_ from 18 Feb to 18 Mar, 2019, in **_Programming in Advance Java_** and been awarded a certificate of completion.
+- Selected as one of the _**Top 10 projects**_ and participated as a [_**`Team Player`**_](#team-player) in a team of 4 members in _**Shrishti 2019 – Project Contest**_ conducted by _**Saintgits College of Engineering**_,Kottayam, Kerala for developing a prototype of **`Smart Helmet for Hearing Impaired`** in February, 2019.
+
+&ensp; _**[YouTube Link](https://www.youtube.com/watch?v=Ura30iEriD4&t=7s)**_&ensp; | &ensp;  _**[Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_
+
+#### &ensp;`PAPER PRESENTATION`
+
+- Secured _**Runner Up**_ with a Cash Prize in presenting a paper on our project **`Smart Helmet for Hearing Impaired`**, conducted by _**KLN College of Engineering**_, Madurai, in October, 2019. &ensp;  _**[Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_
+
+- Secured _**1st place**_ with a Cash Prize in _**Chemistry Paper Presentation**_ at _**Velammal College of Engineering and Technology**_, Madurai on the topic **`Chemistry and Programming - Better Employability`** in 2016. &ensp;  _**[Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_
+
+#### &ensp;`CONFERENCE`
+
+- Attended _**International Conference on Power and Energy Systems**_ and presented a IEEE paper on 
+**`Digital Agriculture with fertilizer monitoring and moisture sensing based on IOT`**, EEE Department, _**Velammal College of Engineering and Technology**_, Madurai in April, 2017. &ensp;  _**[Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_
+
+#### &ensp;`WORKSHOP`
+
+- Attended **`Mobile Application Development Workshop`** conducted by _**‘Silicon Software Services’**_ at _**Velammal College of Engineering and Technology**_, Madurai from 4th to 6th December, 2017. &ensp;  _**[Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_
+
+- Attended **`Software Testing Tool – SELENIUM Workshop`** conducted by _**‘Elysium Technologies’**_ at _**Velammal College of Engineering and Technology**_, Madurai from 10th to 12th July, 2019 and Secured _**1st place**_ with a Cash Prize to complete a hands-on session at the end of the workshop. &ensp;  _**[Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_
+
+&ensp; _**Also participated in various technical events like coding, debugging and paper presentation.**_
+
+---
+#### &ensp;:high_brightness: EXTRA-CURRICULAR
+
