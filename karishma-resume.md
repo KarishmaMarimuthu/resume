@@ -142,6 +142,8 @@
 
 - [_**`Team Leader`**_](#leadership) for the project [**`STUDENT MARK ANALYSIS SYSTEM`**](#student-mark-analysis-system) which comprised a team size of 3 members.
 
+&ensp;&ensp;&ensp; _**[View Our Team Work](https://github.com/KarishmaMarimuthu/Student-Mark-Analysis-System)**_
+
 ---
 ### &ensp;:bust_in_silhouette: PERSONAL DETAILS
 
