@@ -45,14 +45,16 @@
 #### &ensp; `SMART HELMET FOR HEARING IMPAIRED`
 
 
-> **_A SMART HELMET (prototype) to help the hearing impaired people experience the comfort and pleasure of riding a bike was built with the help of Internet Of Things using vibration to help them sense the direction of obstacles._**
+> **_A SMART HELMET (prototype) to help the hearing impaired people experience the comfort and pleasure of riding a bike was built with the help of Internet Of Things using ARDUINO - UNO Microcontroller (Coded in Embedded C) and provide vibration to help them sense the direction of obstacles._**
 
 
 #### &ensp;`CONNECT 4 GAME`
 
 
 > **_A simple two player desktop game application called CONNECT 4 was developed as a JAVAFX Desktop App._**
-> _**[Download and Play the Game](https://github.com/KarishmaMarimuthu/Connect4Game/blob/master/Connect%20Four%20Game.jar)**_&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;_**[View Game Screenshot](https://github.com/KarishmaMarimuthu/Connect4Game/blob/master/Connect4Game%20-%20Screenshot.JPG)**_&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;_**[View Project](https://github.com/KarishmaMarimuthu/Connect4Game)**_
+> _**[`View Game Screenshot`](https://github.com/KarishmaMarimuthu/Connect4Game/blob/master/Connect4Game%20-%20Screenshot.JPG)**_ |
+> _**[`Download and Play the Game`](https://github.com/KarishmaMarimuthu/Connect4Game/blob/master/Connect%20Four%20Game.jar)**_ |
+> _**[`View Project`](https://github.com/KarishmaMarimuthu/Connect4Game)**_
 
 
 #### &ensp;`STUDENT MARK  ANALYSIS  SYSTEM`
