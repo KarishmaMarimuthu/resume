@@ -73,14 +73,17 @@
 
 ---
 ### &ensp;:bust_in_silhouette: PERSONALITY TRAITS
-### &emsp;&emsp;[**`LEADERSHIP`**](#education) &emsp;&emsp;&emsp;&emsp; **`TEAM PLAYER`** &emsp;&emsp;&emsp;&emsp; **`ADAPTIVE`** &emsp;&emsp;&emsp;&emsp; **`OPTIMISTIC`**
+### &emsp;&emsp;[**`LEADERSHIP`**](#internship) &emsp;&emsp;&emsp;&emsp; [**`TEAM PLAYER`**](#project-contest) &emsp;&emsp;&emsp;&emsp; **`ADAPTIVE`(#extra-curricular)** &emsp;&emsp;&emsp;&emsp; **`OPTIMISTIC`(#extra-curricular)**
 
 ---
 ### &ensp;:trophy: ACHIEVEMENTS
 
-&emsp;&emsp;**:page_with_curl: CO-CURRICULAR**
+**:page_with_curl: CO-CURRICULAR**
 
 #### &ensp;`INTERNSHIP`
 
-##### &emsp;&emsp;&emsp;&emsp;Completed 28-day online internship program at POORNA as a _**`Team Leader`**_ from 18 Feb to 18 Mar, 2019, in Programming in Advance Java and been awarded a certificate of completion.
+- Completed 28-day online internship program at POORNA as a _**`Team Leader`**_ from 18 Feb to 18 Mar, 2019, in **_Programming in Advance Java_** and been awarded a certificate of completion.
 
+#### &ensp;`PROJECT CONTEST`
+
+- Completed 28-day online internship program at POORNA as a _**`Team Leader`**_ from 18 Feb to 18 Mar, 2019, in **_Programming in Advance Java_** and been awarded a certificate of completion.
