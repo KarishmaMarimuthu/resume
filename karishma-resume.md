@@ -52,9 +52,12 @@
 
 
 > **_A simple two player desktop game application called CONNECT 4 was developed as a JAVAFX Desktop App._**
-> _**[`View Game Screenshot`](https://github.com/KarishmaMarimuthu/Connect4Game/blob/master/Connect4Game%20-%20Screenshot.JPG)**_ |
-> _**[`Download and Play the Game`](https://github.com/KarishmaMarimuthu/Connect4Game/blob/master/Connect%20Four%20Game.jar)**_ |
-> _**[`View Project`](https://github.com/KarishmaMarimuthu/Connect4Game)**_
+>
+> _**[View Game Screenshot](https://github.com/KarishmaMarimuthu/Connect4Game/blob/master/Connect4Game%20-%20Screenshot.JPG)**_ 
+>
+> _**[Download and Play the Game](https://github.com/KarishmaMarimuthu/Connect4Game/blob/master/Connect%20Four%20Game.jar)**_ 
+>
+> _**[View Project](https://github.com/KarishmaMarimuthu/Connect4Game)**_
 
 
 #### &ensp;`STUDENT MARK  ANALYSIS  SYSTEM`
