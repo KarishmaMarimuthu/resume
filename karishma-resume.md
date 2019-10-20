@@ -111,22 +111,30 @@
 
 #### &ensp;`WORKSHOP`
 
-- Attended [**`Mobile Application Development Workshop`**](#workshop) conducted by _**‘Silicon Software Services’**_ at _**Velammal College of Engineering and Technology**_, Madurai from 4th to 6th December, 2017. &ensp; _**[Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_
+- Attended [**`Mobile Application Development Workshop`**](#workshop) conducted by _**‘Silicon Software Services’**_ at _**Velammal College of Engineering and Technology**_, Madurai from 4th to 6th December, 2017. 
 
-- Attended [**`Software Testing Tool – SELENIUM Workshop`**](#workshop) conducted by _**‘Elysium Technologies’**_ at _**Velammal College of Engineering and Technology**_, Madurai from 10th to 12th July, 2019 and Secured _**1st place**_ with a Cash Prize to complete a hands-on session at the end of the workshop. &ensp; _**[Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_
+&ensp;&ensp;&ensp; _**[Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_
+
+- Attended [**`Software Testing Tool – SELENIUM Workshop`**](#workshop) conducted by _**‘Elysium Technologies’**_ at _**Velammal College of Engineering and Technology**_, Madurai from 10th to 12th July, 2019 and Secured _**1st place**_ with a Cash Prize to complete a hands-on session at the end of the workshop. 
+
+&ensp;&ensp;&ensp; _**[Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_
 
 &ensp; _**Also participated in various technical events like coding, debugging and paper presentation.**_
 
 ---
 ### &ensp;:books: EXTRA CURRICULAR
 
-- Conducted a Workshop named [**`Skill Enhancement through Active Learning (SEAL)`**](#extra-curricular) for Middle and High School Students of Velammal Madurai and enhanced their skills by [_**`adapting`**_](#apadtive) with them, in May, 2017.&ensp; 
+- Conducted a Workshop named [**`Skill Enhancement through Active Learning (SEAL)`**](#extra-curricular) for Middle and High School Students of Velammal Madurai and enhanced their skills by [_**`adapting`**_](#apadtive) with them, in May, 2017.
+
+&ensp;&ensp;&ensp; _**[Work Sample](https://drive.google.com/file/d/1_v_S9YcYBeZuOhq4-R0tLmIim2ntb6JH/view)**_
 
 - Worked as an _**Editorial member and designed a magazine layout for**_ [**`ZIPPY`**](#extra-curricular), the yearly e-magazine of IT Department for the year 2018.
 
-&ensp;&ensp;&ensp;  _**[Work Sample1](https://drive.google.com/file/d/1_v_S9YcYBeZuOhq4-R0tLmIim2ntb6JH/view)**_ 
+&ensp;&ensp;&ensp;  _**[Work Sample](https://drive.google.com/file/d/1_v_S9YcYBeZuOhq4-R0tLmIim2ntb6JH/view)**_ 
 
-- _**Member of ECO CLUB**_ during 2017-2018 at Velammal College of Engineering and Technology, Madurai.&ensp; _**[Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_
+- _**Member of ECO CLUB**_ during 2017-2018 at Velammal College of Engineering and Technology, Madurai.&ensp; 
+
+&ensp;&ensp;&ensp; _**[Certificate](https://drive.google.com/open?id=1_ofUVTZS-D9kTn3_qSMbWgSYW90UjIC9)**_
 
 - _**Elected as Vice President of [`Alchemy Chemistry Association`](#team-player)**_ and conducted various events in an [_**`Optimistic`**_](#optimistic) way of approach, at Velammal College of Engineering and Technology, Madurai during 2016-2017.
 
@@ -139,20 +147,23 @@
 
 &emsp;**1. Father’s  Name &ensp;&ensp;:&ensp;&ensp;	_A. Marimuthu_**  
 
-&emsp;**2. Occupation &ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;	_Business_**
+&emsp;**2. Occupation &ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;	_Business_**
 
 &emsp;**3. Mother’s Name &ensp;&ensp;:&ensp;&ensp; _M. Umarani_**     
 
-&emsp;**4. Occupation &ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;	_Graphic Designer_**
+&emsp;**4. Occupation &ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;	_Graphic Designer_**
 
 &emsp;**5. Date of Birth &ensp;&ensp;&ensp;&ensp;:&ensp;&ensp; _28.05.1998_** 	   
 
-&emsp;**6. Age &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;_21 years_**
+&emsp;**6. Age &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;_21 years_**
 
 &emsp;**7. Languages Known &ensp;:&ensp;&ensp;_English, Tamil_**	
 
-&emsp;**8. Hobbies &ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;_Drawing & Solving Sudoku_**
+&emsp;**8. Hobbies &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;_Drawing & Solving Sudoku_**
 
+---
 &emsp;_**The above given details are true to the best of my knowledge.**_
+
+
 
 
