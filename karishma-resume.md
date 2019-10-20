@@ -46,6 +46,10 @@
 
 
 > **_A SMART HELMET (prototype) to help the hearing impaired people experience the comfort and pleasure of riding a bike was built with the help of Internet Of Things using ARDUINO - UNO Microcontroller (Coded in Embedded C) and provide vibration to help them sense the direction of obstacles._**
+>
+> _**[View Prototype Screenshot](https://github.com/KarishmaMarimuthu/Smart-Helmet/blob/master/README.md)**_ &ensp;| &ensp;
+> _**[Play the Video](https://drive.google.com/file/d/1wXzMjI-VvUcYSD6Q7pz5xRBNW9BFg1qo/view)**_ &ensp;| &ensp;
+> _**[View Project](https://github.com/KarishmaMarimuthu/Smart-Helmet)**_
 
 
 #### &ensp;`CONNECT 4 GAME`
@@ -53,10 +57,8 @@
 
 > **_A simple two player desktop game application called CONNECT 4 was developed as a JAVAFX Desktop App._**
 >
-> _**[View Game Screenshot](https://github.com/KarishmaMarimuthu/Connect4Game/blob/master/Connect4Game%20-%20Screenshot.JPG)**_ 
->
-> _**[Download and Play the Game](https://github.com/KarishmaMarimuthu/Connect4Game/blob/master/Connect%20Four%20Game.jar)**_ 
->
+> _**[View Game Screenshot](https://github.com/KarishmaMarimuthu/Connect4Game/blob/master/Connect4Game%20-%20Screenshot.JPG)**_ &ensp;| &ensp;
+> _**[Download and Play the Game](https://github.com/KarishmaMarimuthu/Connect4Game/blob/master/Connect%20Four%20Game.jar)**_ &ensp;| &ensp;
 > _**[View Project](https://github.com/KarishmaMarimuthu/Connect4Game)**_
 
 
@@ -64,6 +66,10 @@
 
 
 > **_A simple and handy solution to store and update the marks,calculate the GPA and CGPA of all the students was developed using JAVA GUI and Swing in Netbeans IDE with inbuilt JAVA Derby Database._**
+>
+> _**[View Screenshots](https://drive.google.com/open?id=1GTJsOv73HWAHzI2B9DtU9XQC2pMj-Vo8)**_ &ensp;| &ensp;
+> _**[View Project](https://github.com/KarishmaMarimuthu/Student-Mark-Analysis-System)**_
+
 
 ---
 ### &ensp;:bust_in_silhouette: PERSONALITY TRAITS
