@@ -13,15 +13,15 @@
 
 
 
- **`Class/Course`** | **`Name of the Institution`** | **`Board of Study`** | **`Year of Passing`** | **`Percentage`** | **`Reference Links`**
- --- | --- | --- | --- | --- | ---
- **B.Tech - IT** _(UG)_ | **Velammal College of Engineering and Technology,Madurai** | *Anna University (R-2013)* | **`2020`**(Pursuing) |  ***`88.1`***(CGPA - 8.81 till 6th semester) |  [UG Marksheets][2]
- **Higher Secondary**_(HSC)_ | **Velammal Matriculation Higher Secondary School,Madurai** | *State Board* | **`2016`** | ***`93`*** |  [HSC Marksheet][3]
- **High School**_(SSLC)_ | **Velammal Matriculation Higher Secondary School,Madurai** | *State Board* | **`2014`** | ***`97.4`*** |  [SSLC Marksheet][4]
+ **`Class/Course`** | **`Name of the Institution`** | **`Board of Study`** | **`Year of Passing`** | **`Percentage`**
+ --- | --- | --- | --- | --- 
+ **B.Tech - IT** _(UG)_ | **Velammal College of Engineering and Technology,Madurai** | *Anna University (R-2013)* | **`2020`** |  _**`8.81 (CGPA till 6th semester)`**_ - [View][2]   
+ **Higher Secondary** _(HSC)_ | **Velammal Matriculation Higher Secondary School,Madurai** | *State Board* | **`2016`** | ***`93`*** - [View][3]
+ **High School** _(SSLC)_ | **Velammal Matriculation Higher Secondary School,Madurai** | *State Board* | **`2014`** | ***`97.4`*** - - [View][4]
 ---
 [2]: www.google.com
-[3]: www.google.com
-[4]: www.google.com
+[3]: https://drive.google.com/drive/u/0/my-drive
+[4]: https://drive.google.com/drive/u/0/my-drive
 ### &ensp;:book: SUBJECT OF INTEREST
 
 
@@ -31,11 +31,14 @@
 ### &ensp;:pencil: TECHNICAL SKILLS
 
 - **Programming Languages** - _**`C`**_ _**`C++`**_ _**`JAVA`**_
-- **Database Management Language** - **`Structured Query Language`** - _**`SQL`**_
+- **Database Management Language** - **`Structured Query Language`**(_**`SQL`**_)
 - **Web Programming Languages** - _**`HTML`**_ _**`CSS`**_
 ---
 ### &ensp;:star: CERTIFICATIONS
 
-[]: https://drive.google.com/file/d/1-8M64QmQprCALJaVaHZaoZBcfu28xw8J/view
+- **CORE JAVA** - _**`Internshala Trainings` - [View Credential](https://drive.google.com/drive/u/0/search?q=Internshala%20Certificate)**_
+- **Programming in JAVA** - _**`NIIT` - [View Credential](https://drive.google.com/drive/u/0/search?q=NIIT%20Certificate)**_
+- **Business English Certification** - _**Certified in **`BEC`** Vantage Level **`B2`** from **`University of Cambridge,UK`** - [View Credential](https://drive.google.com/drive/u/0/my-drive)**_
+ 
 
 
