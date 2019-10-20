@@ -14,9 +14,9 @@
 
  **`Class/Course`** | **`Name of the Institution`** | **`Board of Study`** | **`Year of Passing`** | **`CGPA/Percentage`**
  --- | --- | --- | --- | --- 
- **B.Tech - IT** _(UG)_ | **Velammal College of Engineering and Technology,Madurai** | *Anna University &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(R-2013)* | **`2020`** |  _**`8.81 (upto 6th semester)`**_ **_- [View][2]_**   
- **Higher Secondary** _(HSC)_ | **Velammal Matriculation Higher Secondary School,Madurai** | *State Board* | **`2016`** | ***`93`*** - **_[View][3]_**
- **High School** _(SSLC)_ | **Velammal Matriculation Higher Secondary School,Madurai** | *State Board* | **`2014`** | ***`97.4`*** - **_[View][4]_**
+ **B.Tech - IT** _(UG)_ | **Velammal College of Engineering and Technology, Madurai** | *Anna University &ensp;&ensp;&ensp;&ensp;(R-2013)* | **`2020`** |  _**`8.81 (upto 6th semester)`**_ **_- [View][2]_**   
+ **Higher Secondary** _(HSC)_ | **Velammal Matriculation Higher Secondary School, Madurai** | *State Board* | **`2016`** | ***`93`*** - **_[View][3]_**
+ **High School** _(SSLC)_ | **Velammal Matriculation Higher Secondary School, Madurai** | *State Board* | **`2014`** | ***`97.4`*** - **_[View][4]_**
 ---
 [2]: https://drive.google.com/open?id=10PR0zfMvB3vJfuAQ0XJzuM8Vl5fyRz9T
 [3]: https://drive.google.com/open?id=1veH-WBlALJSmbuQMGeyuAZCE-R2dt5mK
@@ -147,21 +147,21 @@
 ---
 ### &ensp;:bust_in_silhouette: PERSONAL DETAILS
 
-&emsp;**1. Father’s  Name &ensp;&ensp;:&ensp;&ensp;	_A. Marimuthu_**  
+&emsp;**Father’s  Name &ensp;&ensp;:&ensp;&ensp;	_A. Marimuthu_**  
 
-&emsp;**2. Occupation &ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;	_Business_**
+&emsp;**Occupation &ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;	_Business_**
 
-&emsp;**3. Mother’s Name &ensp;&ensp;:&ensp;&ensp; _M. Umarani_**     
+&emsp;**Mother’s Name &ensp;&ensp;:&ensp;&ensp; _M. Umarani_**     
 
-&emsp;**4. Occupation &ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;	_Graphic Designer_**
+&emsp;**Occupation &ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;	_Graphic Designer_**
 
-&emsp;**5. Date of Birth &ensp;&ensp;&ensp;&ensp;:&ensp;&ensp; _28.05.1998_** 	   
+&emsp;**Date of Birth &ensp;&ensp;&ensp;&ensp;:&ensp;&ensp; _28.05.1998_** 	   
 
-&emsp;**6. Age &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;_21 years_**
+&emsp;**Age &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;_21 years_**
 
-&emsp;**7. Languages Known :&ensp;&ensp;_English, Tamil_**	
+&emsp;**Languages Known :&ensp;&ensp;_English, Tamil_**	
 
-&emsp;**8. Hobbies &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;_Drawing & Solving Sudoku_**
+&emsp;**Hobbies &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;_Drawing & Solving Sudoku_**
 
 ---
 &emsp;_**The above given details are true to the best of my knowledge.**_
