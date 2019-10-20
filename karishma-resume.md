@@ -12,14 +12,13 @@
 ### &ensp;:mortar_board: EDUCATION
 
 
-
- **`Class/Course`** | **`Name of the Institution`** | **`Board of Study`** | **`Year of Passing`** | **`Percentage`**
+ **`Class/Course`** | **`Name of the Institution`** | **`Board of Study`** | **`Year of Passing`** | **`CGPA/Percentage`**
  --- | --- | --- | --- | --- 
- **B.Tech - IT** _(UG)_ | **Velammal College of Engineering and Technology,Madurai** | *Anna University (R-2013)* | **`2020`** |  _**`8.81 (CGPA till 6th semester)`**_ - [View][2]   
- **Higher Secondary** _(HSC)_ | **Velammal Matriculation Higher Secondary School,Madurai** | *State Board* | **`2016`** | ***`93`*** - [View][3]
- **High School** _(SSLC)_ | **Velammal Matriculation Higher Secondary School,Madurai** | *State Board* | **`2014`** | ***`97.4`*** - - [View][4]
+ **B.Tech - IT** _(UG)_ | **Velammal College of Engineering and Technology,Madurai** | *Anna University &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(R-2013)* | **`2020`** |  _**`8.81 (upto 6th semester)`**_ **_- [View][2]_**   
+ **Higher Secondary** _(HSC)_ | **Velammal Matriculation Higher Secondary School,Madurai** | *State Board* | **`2016`** | ***`93`*** - **_[View][3]_**
+ **High School** _(SSLC)_ | **Velammal Matriculation Higher Secondary School,Madurai** | *State Board* | **`2014`** | ***`97.4`*** - **_[View][4]_**
 ---
-[2]: www.google.com
+[2]: https://drive.google.com/drive/u/0/search?q=Marksheets
 [3]: https://drive.google.com/drive/u/0/my-drive
 [4]: https://drive.google.com/drive/u/0/my-drive
 ### &ensp;:book: SUBJECT OF INTEREST
@@ -33,6 +32,7 @@
 - **Programming Languages** - _**`C`**_ _**`C++`**_ _**`JAVA`**_
 - **Database Management Language** - **`Structured Query Language`**(_**`SQL`**_)
 - **Web Programming Languages** - _**`HTML`**_ _**`CSS`**_
+
 ---
 ### &ensp;:star: CERTIFICATIONS
 
@@ -40,5 +40,31 @@
 - **Programming in JAVA** - _**`NIIT` - [View Credential](https://drive.google.com/drive/u/0/search?q=NIIT%20Certificate)**_
 - **Business English Certification** - _**Certified in **`BEC`** Vantage Level **`B2`** from **`University of Cambridge,UK`** - [View Credential](https://drive.google.com/drive/u/0/my-drive)**_
  
+---
+### &ensp;:bookmark_tabs: MINI PROJECTS
+#### &ensp; `SMART HELMET FOR HEARING IMPAIRED`
 
+
+> **_A SMART HELMET (prototype) to help the hearing impaired people experience the comfort and pleasure of riding a bike was built with the help of Internet Of Things using vibration to help them sense the direction of obstacles._**
+
+
+#### &ensp;`CONNECT 4 GAME`
+
+
+> **_A simple two player desktop game application called CONNECT 4 was developed as a JAVAFX Desktop App._**
+
+
+#### &ensp;`STUDENT MARK  ANALYSIS  SYSTEM`
+
+
+> **_A simple and handy solution to store and update the marks,calculate the GPA and CGPA of all the students was developed using JAVA GUI and Swing in Netbeans IDE with inbuilt JAVA Derby Database._**
+
+---
+### &ensp;:bust_in_silhouette: PERSONALITY TRAITS
+&emsp;&emsp;**`LEADERSHIP`** &emsp;&emsp;&emsp;&emsp; **`TEAM PLAYER`** &emsp;&emsp;&emsp;&emsp; **`ADAPTIVE`** &emsp;&emsp;&emsp;&emsp; **`OPTIMISTIC`**
+
+---
+### &ensp;:trophy: ACHIEVEMENTS
+
+&emsp;&emsp;**:page_with_curl: CO-CURRICULAR**
 
