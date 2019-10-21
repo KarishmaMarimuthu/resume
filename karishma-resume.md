@@ -94,7 +94,7 @@
 
 #### &ensp;`PAPER PRESENTATION`
 
-- Secured _**Runner Up**_ with a Cash Prize in presenting a paper on our project [_**`Smart Helmet for Hearing Impaired`**_](#paper-presentation), conducted by _**KLN College of Engineering**_, Madurai, in October, 2019. &ensp;  
+- Secured _**Runner Up**_ with a Cash Prize in presenting a paper on our project [_**`Smart Helmet for Hearing Impaired`**_](#paper-presentation)in CLUSITER'19 conducted by _**KLN College of Engineering**_, Madurai, in October, 2019. &ensp;  
 
 &ensp;&ensp;&ensp; _**[Certificate](https://drive.google.com/open?id=1HRjnIGRShJtETU7lxBrxW-SLnBknzLmK)**_ &ensp; | &ensp; _**[View PPT](https://drive.google.com/file/d/1-u6YoLIUmnf09plQtnnVhLbfvDi9NfRg/view)**_
 
