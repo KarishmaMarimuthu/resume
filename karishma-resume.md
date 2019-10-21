@@ -14,9 +14,9 @@
 
  **`Class/Course`** | **`Name of the Institution`** | **`Board of Study`** | **`Year of Passing`** | **`CGPA/Percentage`**
  --- | --- | --- | --- | --- 
- **B.Tech - IT** _(UG)_ | **Velammal College of Engineering and Technology, Madurai** | *Anna University* | **`2020`** |  _**`8.81 (upto 6th semester)`**_ **_- [View][2]_**   
- **Higher Secondary** _(HSC)_ | **Velammal Matriculation Higher Secondary School, Madurai** | *State Board* | **`2016`** | ***`93`*** - **_[View][3]_**
- **High School** _(SSLC)_ | **Velammal Matriculation Higher Secondary School, Madurai** | *State Board* | **`2014`** | ***`97.4`*** - **_[View][4]_**
+ **B.Tech - IT** _(UG)_ | **Velammal College of Engineering and Technology, Madurai** | *Anna University* | &ensp;**`2020`** |  _**`8.81 (upto 6th semester)`**_ **_- [View][2]_**   
+ **Higher Secondary** _(HSC)_ | **Velammal Matriculation Higher Secondary School, Madurai** | *State Board* | &ensp;**`2016`** | ***`93`*** - **_[View][3]_**
+ **High School** _(SSLC)_ | **Velammal Matriculation Higher Secondary School, Madurai** | *State Board* | &ensp;**`2014`** | ***`97.4`*** - **_[View][4]_**
 ---
 [2]: https://drive.google.com/open?id=10PR0zfMvB3vJfuAQ0XJzuM8Vl5fyRz9T
 [3]: https://drive.google.com/open?id=1veH-WBlALJSmbuQMGeyuAZCE-R2dt5mK
@@ -167,13 +167,13 @@
 &emsp;_**The above given details are true to the best of my knowledge.**_
 
 ---
-### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; _**Let's get**_
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Linkedin](https://github.com/KarishmaMarimuthu/resume/blob/master/linked.JPG)
+### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; _**Let's get**_
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Linkedin](https://github.com/KarishmaMarimuthu/resume/blob/master/linked.JPG)
 
 ```diff
-!                                     CLICK or SCAN the QRCode                                              
+!                                    CLICK or SCAN the QRCode                                              
 ```
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[<img src="https://github.com/KarishmaMarimuthu/resume/blob/master/QR.JPG">](https://www.linkedin.com/in/karishma-marimuthu-276224173//)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[<img src="https://github.com/KarishmaMarimuthu/resume/blob/master/QR.JPG">](https://www.linkedin.com/in/karishma-marimuthu-276224173//)
 
 
