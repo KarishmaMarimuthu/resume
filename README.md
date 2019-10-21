@@ -1,6 +1,6 @@
-# @KarishmaMarimuthu/resume
+# KarishmaMarimuthu/resume
 
-> A detailed resume.
+> A detailed resume about me.
 
 ## Exports
 
