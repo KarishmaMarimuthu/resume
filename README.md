@@ -4,4 +4,5 @@
 
 ## Exports
 
-- **Markdown** &ndash; [karishma-resume.md](export/karishma-resume.md)
+- **Markdown** &ndash; [Karishma Resume.md](export/karishma-resume.md)
+- **PDF** &ndash; [Karishma Resume.pdf](export/Karishma Resume - 21.10.2019.pdf)
