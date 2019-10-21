@@ -45,7 +45,7 @@
 #### &ensp; `SMART HELMET FOR HEARING IMPAIRED`
 
 
-> **_A SMART HELMET (prototype) to help the hearing impaired people experience the comfort and pleasure of riding a bike was built with the help of Internet Of Things using ARDUINO - UNO Microcontroller (Coded in Embedded C) and provide vibration to help them sense the direction of obstacles._**
+> **_A SMART HELMET (prototype) to help the hearing impaired people experience the comfort and pleasure of riding a bike was built with the help of Internet Of Things using ARDUINO - UNO Microcontroller (Coded in Embedded C), sensors and provide vibration to help them sense the direction of obstacles._**
 >
 > _**[View Prototype Screenshot](https://github.com/KarishmaMarimuthu/Smart-Helmet/blob/master/README.md)**_ &ensp;| &ensp;
 > _**[Play the Video](https://drive.google.com/file/d/1wXzMjI-VvUcYSD6Q7pz5xRBNW9BFg1qo/view)**_ &ensp;| &ensp;
