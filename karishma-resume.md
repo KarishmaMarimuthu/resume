@@ -90,7 +90,7 @@
 
 - Selected as one of the _**Top 10 projects**_ and participated as a [_**`Team Player`**_](#team-player) in a team of 4 members in _**Shrishti 2019 – Project Contest**_ conducted by _**Saintgits College of Engineering**_,Kottayam, Kerala for developing a prototype of [_**`Smart Helmet for Hearing Impaired`**_](#smart-helmet-for-hearing-impaired) in February, 2019.
 
-&ensp;&ensp;&ensp; _**[YouTube Link](https://www.youtube.com/watch?v=Ura30iEriD4&t=7s)**_&ensp; | &ensp;  _**[Certificate](https://drive.google.com/open?id=10TqOisc4EMg9tpIj8n8AfjaaKdmIB-hL)**_ &ensp; | &ensp;  _**[View Project](https://github.com/KarishmaMarimuthu/Smart-Helmet)**_
+&ensp;&ensp;&ensp; _**[YouTube Link](https://www.youtube.com/watch?v=Ura30iEriD4&t=7s)**_&ensp; | &ensp;  _**[Certificate](https://drive.google.com/open?id=10TqOisc4EMg9tpIj8n8AfjaaKdmIB-hL)**_ &ensp; | &ensp;  _**[View Our Team Work](https://drive.google.com/open?id=1R-P4hy2AQ7OhZP0CpTrCswYZIWx97Xx_)**_
 
 #### &ensp;`PAPER PRESENTATION`
 
@@ -142,7 +142,7 @@
 
 - [_**`Team Leader`**_](#leadership) for the project [**`STUDENT MARK ANALYSIS SYSTEM`**](#student-mark-analysis-system) which comprised a team size of 3 members.
 
-&ensp;&ensp;&ensp; _**[View Our Team Work](https://github.com/KarishmaMarimuthu/Student-Mark-Analysis-System)**_
+&ensp;&ensp;&ensp; _**[View Our Team Work](https://drive.google.com/open?id=1iJ1O8bbWGm_OSzrV7A72OUpi4TxlwvQ-)**_
 
 ---
 ### &ensp;:bust_in_silhouette: PERSONAL DETAILS
