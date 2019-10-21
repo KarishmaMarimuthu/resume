@@ -166,15 +166,15 @@
 ---
 &emsp;_**The above given details are true to the best of my knowledge.**_
 
-
-
+---
+&emsp;_**Get ![Linkedin](https://github.com/KarishmaMarimuthu/resume/blob/master/linkedin%20logo.JPG) with me by**_
 
 ```diff
-! CLICK or SCAN the QRCode
+! CLICKING or SCANNING the QRCode
 ```
 
 
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[<img src="https://github.com/KarishmaMarimuthu/resume/blob/master/QR.JPG">](https://www.linkedin.com/in/karishma-marimuthu-276224173//)
 
 
