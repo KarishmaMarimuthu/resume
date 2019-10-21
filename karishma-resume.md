@@ -171,7 +171,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Linkedin](https://github.com/KarishmaMarimuthu/resume/blob/master/linked.JPG)
 
 ```diff
-!                                    CLICK or SCAN the QRCode                                              
+!                                     CLICK or SCAN the QRCode                                              
 ```
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[<img src="https://github.com/KarishmaMarimuthu/resume/blob/master/QR.JPG">](https://www.linkedin.com/in/karishma-marimuthu-276224173//)
