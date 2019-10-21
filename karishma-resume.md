@@ -167,7 +167,7 @@
 &emsp;_**The above given details are true to the best of my knowledge.**_
 
 ---
-&emsp;_**Get ![Linkedin](https://github.com/KarishmaMarimuthu/resume/blob/master/linkedin%20logo.JPG) with me by**_
+# &emsp; **Get &emsp;![Linkedin](https://drive.google.com/open?id=1MMeISGme8bSxXP3MKRrNl-zmrzW76pP_)&emsp;with me.**
 
 ```diff
 ! CLICKING or SCANNING the QRCode
