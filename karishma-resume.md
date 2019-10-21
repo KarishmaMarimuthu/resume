@@ -14,7 +14,7 @@
 
  **`Class/Course`** | **`Name of the Institution`** | **`Board of Study`** | **`Year of Passing`** | **`CGPA/Percentage`**
  --- | --- | --- | --- | --- 
- **B.Tech - IT** _(UG)_ | **Velammal College of Engineering and Technology, Madurai** | *Anna University &ensp;&ensp;&ensp;&ensp;(R-2013)* | **`2020`** |  _**`8.81 (upto 6th semester)`**_ **_- [View][2]_**   
+ **B.Tech - IT** _(UG)_ | **Velammal College of Engineering and Technology, Madurai** | *Anna University* | **`2020`** |  _**`8.81 (upto 6th semester)`**_ **_- [View][2]_**   
  **Higher Secondary** _(HSC)_ | **Velammal Matriculation Higher Secondary School, Madurai** | *State Board* | **`2016`** | ***`93`*** - **_[View][3]_**
  **High School** _(SSLC)_ | **Velammal Matriculation Higher Secondary School, Madurai** | *State Board* | **`2014`** | ***`97.4`*** - **_[View][4]_**
 ---
@@ -73,7 +73,7 @@
 
 ---
 ### &ensp;:bust_in_silhouette: PERSONALITY TRAITS
-### &emsp;&emsp;[**`LEADERSHIP`**](#internship) &emsp;&emsp;&emsp;&emsp; [**`TEAM PLAYER`**](#project-contest) &emsp;&emsp;&emsp;&emsp; [**`ADAPTIVE`**](#extra-curricular) &emsp;&emsp;&emsp;&emsp; [**`OPTIMISTIC`**](#extra-curricular)
+### &emsp;&emsp;[**`LEADERSHIP`**](#internship) &emsp;&emsp;&emsp; [**`TEAM PLAYER`**](#project-contest) &emsp;&emsp;&emsp; [**`ADAPTIVE`**](#extra-curricular) &emsp;&emsp;&emsp; [**`OPTIMISTIC`**](#extra-curricular)
 
 ---
 ### &ensp;:trophy: ACHIEVEMENTS
@@ -167,14 +167,13 @@
 &emsp;_**The above given details are true to the best of my knowledge.**_
 
 ---
-# &emsp; **Get &emsp;![Linkedin](https://drive.google.com/open?id=1MMeISGme8bSxXP3MKRrNl-zmrzW76pP_)&emsp;with me.**
+### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; _**Lets get**_
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Linkedin](https://github.com/KarishmaMarimuthu/resume/blob/master/linked.JPG)
 
 ```diff
-! CLICKING or SCANNING the QRCode
+!                                       CLICK or SCAN the QRCode                                              
 ```
 
-
-
-[<img src="https://github.com/KarishmaMarimuthu/resume/blob/master/QR.JPG">](https://www.linkedin.com/in/karishma-marimuthu-276224173//)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[<img src="https://github.com/KarishmaMarimuthu/resume/blob/master/QR.JPG">](https://www.linkedin.com/in/karishma-marimuthu-276224173//)
 
 
