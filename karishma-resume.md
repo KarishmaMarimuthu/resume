@@ -15,8 +15,8 @@
  **`Class/Course`** | **`Name of the Institution`** | **`Board of Study`** | **`Year of Passing`** | **`CGPA/Percentage`**
  --- | --- | --- | --- | --- 
  **B.Tech - IT** &ensp;&ensp;_(UG)_ | **Velammal College of Engineering and Technology, Madurai** | &ensp;&ensp;*Anna University* | &ensp;&ensp;**`2020`** |  &ensp;&ensp;_**`8.81 (upto 6th semester)`**_ **_- [View][2]_**   
- **Higher &ensp;Secondary** &ensp;&ensp;_(HSC)_ | **Velammal Matriculation Higher Secondary School, Madurai** | &ensp;*State&ensp;&ensp;  Board* | &ensp;&ensp;**`2016`** | &ensp;&ensp;***`93`*** - **_[View][3]_**
- **High School** &ensp;&ensp;_(SSLC)_ | **Velammal Matriculation Higher Secondary School, Madurai** | &ensp;*State&ensp;&ensp;  Board* | &ensp;&ensp;**`2014`** | &ensp;&ensp;***`97.4`*** - **_[View][4]_**
+ **Higher &ensp;Secondary** &ensp;&ensp;_(HSC)_ | **Velammal Matriculation Higher Secondary School, Madurai** | &ensp;*StateBoard* | &ensp;&ensp;**`2016`** | &ensp;&ensp;***`93`*** - **_[View][3]_**
+ **High School** &ensp;&ensp;_(SSLC)_ | **Velammal Matriculation Higher Secondary School, Madurai** | &ensp;*StateBoard* | &ensp;&ensp;**`2014`** | &ensp;&ensp;***`97.4`*** - **_[View][4]_**
 ---
 [2]: https://drive.google.com/open?id=10PR0zfMvB3vJfuAQ0XJzuM8Vl5fyRz9T
 [3]: https://drive.google.com/open?id=1veH-WBlALJSmbuQMGeyuAZCE-R2dt5mK
