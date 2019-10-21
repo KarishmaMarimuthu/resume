@@ -167,5 +167,10 @@
 &emsp;_**The above given details are true to the best of my knowledge.**_
 
 
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
 
