@@ -167,10 +167,14 @@
 &emsp;_**The above given details are true to the best of my knowledge.**_
 
 
+
+
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
+! CLICK or SCAN the QRCode
 ```
+
+
+
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+
 
