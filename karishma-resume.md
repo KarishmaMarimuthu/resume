@@ -157,7 +157,7 @@
 
 &emsp;**Date of Birth &ensp;&ensp;&ensp;&ensp;:&ensp;&ensp; _28.05.1998_** 	   
 
-&emsp;**Age &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;_21 years_**
+&emsp;**Age &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;&ensp;&ensp;_21 years_**
 
 &emsp;**Languages Known :&ensp;&ensp;_English, Tamil_**	
 
